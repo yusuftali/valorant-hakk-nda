@@ -1,0 +1,47 @@
+body{
+    background-color: rgba(255, 70, 85, 1);
+    font-family: 'Lobster', cursive;
+font-family: 'Yellowtail', cursive;
+}
+.Kademeler{
+    float: right;
+    margin-right: 10px;
+    margin-top: 60px;
+    font-size: 10px;
+}
+.Oynanış{
+    float: right;
+    margin-right: 15px;
+    font-size: 10px;
+    margin-top: 60px;
+}
+.Derecesiz{
+    float: right;
+    margin-right: 20px;
+    font-size: 10px;
+    margin-top: 60px;
+}
+.SpikeHücum{
+    float: right;
+    margin-right: 25px;
+    font-size: 10px;
+    margin-top: 60px;
+}
+.RekabetDayalı{
+    float: right;
+    margin-right: 30px;
+    font-size: 10px;
+    margin-top: 60px;
+}
+.ÖlümMaçı{
+    float: right;
+    margin-right: 35px;
+    font-size: 10px;
+    margin-top: 60px;
+}
+.Tırmanış{
+    float: right;
+    margin-right: 40px;
+    font-size: 10px;
+    margin-top: 60px;
+}
